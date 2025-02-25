@@ -14,6 +14,7 @@
     "type": "git",
     "url": "https://github.com/fhswno/lucide-icons-lookup"
   },
+  "icon": "images/icon.png",
   "activationEvents": [],
   "main": "./dist/extension.js",
   "contributes": {
