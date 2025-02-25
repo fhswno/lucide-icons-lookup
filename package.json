@@ -15,10 +15,6 @@
   "contributes": {
     "commands": [
       {
-        "command": "lucide-icons-lookup.helloWorld",
-        "title": "Hello World"
-      },
-      {
         "command": "lucide-icons-lookup.search",
         "title": "Lucide Icons: Search"
       }
