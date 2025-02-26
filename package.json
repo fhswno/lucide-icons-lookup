@@ -2,10 +2,10 @@
   "name": "lucide-icons-lookup",
   "displayName": "Lucide Icons Lookup",
   "description": "Search Lucide Icons directly from VS Code",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "fhswno",
   "engines": {
-    "vscode": "^1.97.0"
+    "vscode": "^1.50.0"
   },
   "categories": [
     "Other"
